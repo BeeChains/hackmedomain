@@ -7,3 +7,6 @@ This is a [Handshake](https://handshake.org) blockchain Top Level Domain...
 - [Nite Team 4](https://www.niteteam4.com/)
 - [tryhackme](https://tryhackme.com/)
 - [hack.me](https://hack.me/)
+- [nmap](https://nmap.org/)
+- [kalilinux](https://www.kali.org/)
+- [parrotsec](https://www.parrotsec.org/)
