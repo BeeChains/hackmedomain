@@ -22,4 +22,7 @@ Send HNS here for me hs1qx55d7k9v09uetfeasd6hxqwl3jfzut9lsm4kdt
 
 <iframe width="676" height="380" src="https://www.youtube.com/embed/H-0RHqDWcJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Buy,Sell or Trade With Paxful Kiosk here
+![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)
+
 - [INNER I NETWORK SECURITY](http://allseeingi.innerinetworksecurity/)
